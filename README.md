@@ -8,7 +8,7 @@ This is the official code repository for "MALUNet: A Muti-Attention and Light-we
 
 **1. Prepare the dataset.**
 
-- The ISIC17 and ISIC18 datasets, divided into a 7:3 ratio, can be found here {[isic](https://challenge.isic-archive.com/data/#2017)}. 
+- The ISIC17 and ISIC18 datasets, divided into a 7:3 ratio, can be found here {[isic](https://challenge.isic-archive.com/data/#2017) or [baidu](https://pan.baidu.com/s/1jugG6rtN0W77orUj3JcsIg?pwd=nsxs)}. 
 
 - After downloading the datasets, you are supposed to put them into './data/isic17/' and './data/isic18/', and the file format reference is as follows. (take the ISIC17 dataset as an example.)
 
