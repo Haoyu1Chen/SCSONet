@@ -1,5 +1,5 @@
 # SCSONet
-This is the official code repository for "MALUNet: A Muti-Attention and Light-weight UNet for Skin Lesion Segmentation".
+This is the official code repository for "SCSONet: spatial-channel synergistic optimization net for skin lesion segmentation".
 
 **0. Main Environments**
 - python 3.8
